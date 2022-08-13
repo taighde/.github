@@ -1,1 +1,1 @@
-Machine learning • Algoithmic trading
+Statistics and Models 
