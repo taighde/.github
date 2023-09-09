@@ -1,1 +1,1 @@
-We believe that data holds the key to solving complex problems and making informed decisions. Leveraging advanced statistical techniques to analyse datasets and build robust models. From regression and time series analysis to clustering and classification, we apply a diverse range of methodologies to extract meaningful patterns and trends.
+We believe data is critical to solving complex problems and making informed decisions. 
